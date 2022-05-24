@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/16 13:46:48.000.680,=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/16 13:47:56.000.810,=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/26 10:45:18.000.098,=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/24 20:06:22.436,=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/24 20:06:53.289,C:\projeto\jogodelphi\Uprincipal.pas=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/24 20:06:53.289,C:\projeto\jogodelphi\Uprincipal.dfm=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/24 20:07:08.589,C:\projeto\jogodelphi\ProjJogo.dproj=C:\Users\MaestroStore\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
