@@ -1,1 +1,2 @@
 # projectDelphi
+teste de conectividade
